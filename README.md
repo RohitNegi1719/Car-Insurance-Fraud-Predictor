@@ -1,7 +1,7 @@
 # Insurance Fraud Predictor
 
 ## Overview
-This project implements a web application for predicting insurance fraud using a machine learning model. Users can input their data through a form, and the application will predict whether the insurance claim is fraudulent or not.
+This project implements a web application for predicting car insurance fraud using a machine learning model. Users can input their data through a form, and the application will predict whether the insurance claim is fraudulent or not.
 
 ## Dependencies
 - streamlit
