@@ -7,6 +7,7 @@ This project implements a web application for predicting car insurance fraud usi
 - streamlit
 - pandas
 - pickle
+- Power BI
 
 ## Usage
 1. Ensure you have the trained model file `Fraud_Predictor.pkl` and the Streamlit application script available.
